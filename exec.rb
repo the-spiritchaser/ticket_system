@@ -30,3 +30,5 @@ oceans_eleven = Movie.new(
                 )
 
 ticket_vending_machine.movies = [titanic, tom_and_jerry, oceans_eleven]
+
+ticket_vending_machine.display_menu
