@@ -6,4 +6,8 @@ class TicketVendingMachine
   def movies
     @movies
   end
+
+  def movies=(movies)
+    @movies = movies
+  end
 end
