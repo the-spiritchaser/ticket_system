@@ -2,6 +2,7 @@ require './customer'
 require './movie'
 require './ticket'
 require './ticket_vending_machine'
+require 'date'
 
 customer = Customer.new("takashi", 5000)
 
